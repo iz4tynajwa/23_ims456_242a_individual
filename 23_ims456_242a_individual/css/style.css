@@ -1,0 +1,44 @@
+h1
+{
+    color: black;
+    font-family: tahoma;
+    font-size : 25 pt;
+}
+
+body
+{
+    background-color: beige;
+}
+
+a
+{
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14pt;
+    color: darkred;
+    padding: 15px;
+
+
+}
+
+.header
+ {
+    width: 100%;
+    background-color:yellow;
+    float: left;
+    height: 150px;
+ }
+
+ .slider
+ {
+    width: 100%;
+    background-color: brown;
+    float: left;
+ }
+
+ 
+
+ .content
+ {
+   color:black;
+ }
