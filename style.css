@@ -1,6 +1,6 @@
 h1
 {
-    color: red;
+    color: black;
     font-family: tahoma;
     font-size : 25 pt;
 }
@@ -16,7 +16,29 @@ a
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 14pt;
     color: darkred;
-    padding-left : 120px;
+    padding: 15px;
 
 
 }
+
+.header
+ {
+    width: 100%;
+    background-color:yellow;
+    float: left;
+    height: 150px;
+ }
+
+ .slider
+ {
+    width: 100%;
+    background-color: brown;
+    float: left;
+ }
+
+ 
+
+ .content
+ {
+   color:black;
+ }
